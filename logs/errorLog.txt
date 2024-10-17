@@ -1,0 +1,4 @@
+20241014	16:50:36	fe4a0c99-a0bd-43bb-9f26-4f3219f3c53b	Error: Not allowed by CORS
+20241016	16:07:02	7deda6f8-5313-45e6-9764-df07ef1a8a6b	ReferenceError: allowedOriginst is not defined
+20241016	16:08:13	906559d1-1c32-4e51-bde3-3739d9d2b361	ReferenceError: allowedOriginst is not defined
+20241016	16:12:50	7afbec6b-04b9-434b-854f-0d0282aada6b	TypeError: rolesArray.includes(...).find is not a function
